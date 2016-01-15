@@ -13,11 +13,12 @@ namespace csharp
 	{
 		public static string name;
 		public static string lastname;
-	
-
 	}
 
 
-		}
+	class dotsharp
+	{
 	}
-	
+
+      }
+    }
